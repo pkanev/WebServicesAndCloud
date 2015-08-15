@@ -1,0 +1,11 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q04DistCalcResClient\bin\Debug\Q04DistCalcResClient.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q04DistCalcResClient\bin\Debug\Q04DistCalcResClient.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q04DistCalcResClient\bin\Debug\Q04DistCalcResClient.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q04DistCalcResClient\bin\Debug\RestSharp.dll
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q04DistCalcResClient\bin\Debug\RestSharp.xml
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q04DistCalcResClient\obj\Debug\Q04DistCalcResClient.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q04DistCalcResClient\obj\Debug\Q04DistCalcResClient.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q04DistCalcResClient\obj\Debug\Q04DistCalcResClient.pdb
+C:\Users\Don Piter\Desktop\WebServices\Q04DistCalcResClient\bin\Debug\Q04DistCalcResClient.exe.config
+C:\Users\Don Piter\Desktop\WebServices\Q04DistCalcResClient\obj\Debug\Q04DistCalcResClient.exe
+C:\Users\Don Piter\Desktop\WebServices\Q04DistCalcResClient\obj\Debug\Q04DistCalcResClient.pdb

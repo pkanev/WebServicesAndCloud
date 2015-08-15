@@ -1,0 +1,6 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q01WcfCalcService\bin\Q01WcfCalcService.dll.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q01WcfCalcService\bin\Q01WcfCalcService.dll
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q01WcfCalcService\bin\Q01WcfCalcService.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q01WcfCalcService\obj\Debug\Q01WcfCalcService.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q01WcfCalcService\obj\Debug\Q01WcfCalcService.dll
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q01WcfCalcService\obj\Debug\Q01WcfCalcService.pdb

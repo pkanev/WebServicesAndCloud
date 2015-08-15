@@ -1,0 +1,6 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q02DistanceCalculatorClient\bin\Debug\Q02DistanceCalculatorClient.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q02DistanceCalculatorClient\bin\Debug\Q02DistanceCalculatorClient.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q02DistanceCalculatorClient\bin\Debug\Q02DistanceCalculatorClient.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q02DistanceCalculatorClient\obj\Debug\Q02DistanceCalculatorClient.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q02DistanceCalculatorClient\obj\Debug\Q02DistanceCalculatorClient.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\WebServices\Q02DistanceCalculatorClient\obj\Debug\Q02DistanceCalculatorClient.pdb
