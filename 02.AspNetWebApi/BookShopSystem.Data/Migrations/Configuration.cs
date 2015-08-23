@@ -21,11 +21,12 @@ namespace BookShopSystem.Data.Migrations
 
         protected override void Seed(BookShopSystem.Data.BookShopContext context)
         {
+            string path = @"C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\AspNetWebApi\data/";
             if (!context.Authors.Any())
             {
                 var random = new Random();
                 List<Category> categories = new List<Category>();
-                using (var reader = new StreamReader("../../../data/categories.txt"))
+                using (var reader = new StreamReader(path + "categories.txt"))
                 {
                     var line = reader.ReadLine();
                     while (line != null)
@@ -40,7 +41,7 @@ namespace BookShopSystem.Data.Migrations
                 }
 
                 List<Author> authors = new List<Author>();
-                using (var reader = new StreamReader("../../../data/authors.txt"))
+                using (var reader = new StreamReader(path + "authors.txt"))
                 {
                     var line = reader.ReadLine();
                     line = reader.ReadLine();
@@ -57,7 +58,7 @@ namespace BookShopSystem.Data.Migrations
                     }
                 }
 
-                using (var reader = new StreamReader("../../../data/books.txt"))
+                using (var reader = new StreamReader(path + "books.txt"))
                 {
                     var line = reader.ReadLine();
                     line = reader.ReadLine();
