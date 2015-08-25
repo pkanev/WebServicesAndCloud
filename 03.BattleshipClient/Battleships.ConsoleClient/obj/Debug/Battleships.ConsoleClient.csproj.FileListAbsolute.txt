@@ -1,0 +1,19 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\bin\Debug\Battleships.ConsoleClient.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\bin\Debug\Battleships.ConsoleClient.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\bin\Debug\Battleships.ConsoleClient.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\obj\Debug\Battleships.ConsoleClient.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\obj\Debug\Battleships.ConsoleClient.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\WebServicesAndCloud\Homeworks\Battleship\Battleships.ConsoleClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\bin\Debug\Battleships.ConsoleClient.exe.config
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\obj\Debug\Battleships.ConsoleClient.exe
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\obj\Debug\Battleships.ConsoleClient.pdb
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\bin\Debug\Battleships.ConsoleClient.exe
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\bin\Debug\Battleships.ConsoleClient.pdb
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Don Piter\Desktop\BattleshipClient\Battleships.ConsoleClient\obj\Debug\Battleships.ConsoleClient.csprojResolveAssemblyReference.cache
