@@ -1,0 +1,26 @@
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.dll.config
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.dll
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.pdb
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.dll
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.xml
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.dll
+C:\Users\p.kanev\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.pdb
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.dll.config
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.dll
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\OnlineShop.Models.pdb
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.dll
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.xml
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.dll
+C:\Users\Don Piter\Desktop\2. ASP.NET-Web-API-Online-Shop-Skeleton\OnlineShop.Models\obj\Debug\OnlineShop.Models.pdb
